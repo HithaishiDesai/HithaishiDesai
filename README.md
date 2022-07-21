@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Hithaishi Desai, Welcome to my GitHub Profile
+## 🤠 Hello!! I'm Hithaishi Desai, Welcome to my GitHub Profile
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HithaishiDesai/&title=Profile%20Views)
-# My Social Profiles
+# My Social Accounts
 <p align="center">
-<a href="https://telegram.me/Hithaishidesai_605"><img alt="Telegram" src="https://img.shields.io/badge/HITHAISHI DESAI-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/Hithaishidesai_605"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
